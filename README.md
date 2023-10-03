@@ -4,6 +4,9 @@
 
 This application lets us get a current weather forecast and a 5-day forecast of any city or area in the world.  This also provides wind speed, temperature, and humidity.  The Search Bar also will provide a drop down menu with previous searches allowing you to click them and return to those previous searches.
 
+//https://github.com/bolfati/weather-app
+//https://bolfati.github.io/weather-app/
+
 
 ## Installation
 
